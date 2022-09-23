@@ -1,0 +1,60 @@
+#logo {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  background-color: #7faace;
+  padding: 5px;
+}
+#button {
+  display: flex;
+  height: 24px;
+  margin-left: 500px;
+}
+#body {
+  display: flex;
+}
+#neirong {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin: 5px;
+  width: 800px;
+  background-color: #edeef0;
+}
+#lanmu {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin: 5px;
+  width: 125px;
+  height: 380px;
+  font-size: 12px;
+  font-weight: bold;
+  background-color: #b4c8d8;
+}
+#anniu {
+  display: grid;
+  width: 100px;
+  height: 30px;
+  margin: 5px;
+  overflow: hidden;
+  justify-items: center;
+  align-items: center;
+  border-radius: 5px 5px 5px 5px;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
+}
+#jiewei {
+  display: flex;
+  background-color: #7faace;
+  justify-content: center;
+  flex-direction: column;
+  margin: 50px;
+  height: 30px;
+  align-items: center;
+  font-size: 12px;
+}
+a {
+  text-decoration: none;
+}
